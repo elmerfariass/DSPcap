@@ -1,4 +1,4 @@
-# DSPcap - Documentação de Capacitação em DSP
+# DSPcap - de Capacitação em Digital Signal Processing
 
 Este repositório tem como finalidade servir como documentação da capacitação em **Processamento Digital de Sinais (DSP)**, com foco na aplicação prática dos conceitos estudados.
 
@@ -8,17 +8,7 @@ Desenvolver uma base sólida de conhecimento em DSP, visando a **modelagem de al
 
 ## Estrutura
 
-A documentação está organizada em tópicos que acompanham a evolução da capacitação, incluindo:
+A documentação está organizada em tópicos e capitulos que acompanham a evolução da capacitação, com texto base de:
 
-- Conceitos fundamentais de sinais e sistemas
-- Transformadas e análise no domínio da frequência
-- Exercícios e provas resolvidas
-- Materiais complementares para consulta
+- Diniz, P. S. R., Silva, E. A. B. da, & Netto, S. L. (2014). Processamento Digital de Sinais: Projeto e Análise de Sistemas (2ª ed.).
 
-## Público-Alvo
-
-Estudantes e profissionais que desejam aplicar técnicas de DSP em projetos de hardware digital, com ênfase em abstração e modelagem computacional.
-
----
-
-> Este repositório é parte integrante de um processo de capacitação contínua e prática, conduzido por [@elmerfariass](https://github.com/elmerfariass).
