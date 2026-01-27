@@ -1,14 +1,15 @@
-# DSPcap - de Capacitação em Digital Signal Processing
+DSPcap – Training Program in Digital Signal Processing
+Virtus-CC Training Program  
+Guided by Prof. Dr. Edson Porto da Silva
 
-Este repositório tem como finalidade servir como documentação da capacitação em **Processamento Digital de Sinais (DSP)**, com foco na aplicação prática dos conceitos estudados.
+This repository is intended to serve as documentation for the training program in Digital Signal Processing (DSP), with a strong focus on the practical application of the concepts studied.
 
-## Objetivo
+Objective
+To develop a solid foundation of knowledge in DSP, aiming at high-level modeling with Python for solving typical problems in the field, with subsequent application in digital hardware projects, such as ASICs.
 
-Desenvolver uma base sólida de conhecimento em DSP, visando a **modelagem de alto nível com Python** para resolução de problemas típicos da área, com posterior aplicação em **projetos de hardware digital**, como **ASICs**.
+Structure
+The documentation is organized into topics that follow the progression of the training program, based on the reference texts:
 
-## Estrutura
+Diniz, P. S. R., Silva, E. A. B. da, & Netto, S. L. (2014). Digital Signal Processing: System Design and Analysis (2nd ed.).
 
-A documentação está organizada em tópicos e capitulos que acompanham a evolução da capacitação, com texto base de:
-
-- Diniz, P. S. R., Silva, E. A. B. da, & Netto, S. L. (2014). Processamento Digital de Sinais: Projeto e Análise de Sistemas (2ª ed.).
-
+Diniz, P. S. R. (2020). Adaptive Filtering: Algorithms and Practical Implementation (5th ed.).
