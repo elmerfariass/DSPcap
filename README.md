@@ -1,5 +1,7 @@
 DSPcap – Training Program in Digital Signal Processing
-Virtus-CC Training Program  
+
+Virtus-CC  
+
 Guided by Prof. Dr. Edson Porto da Silva
 
 This repository is intended to serve as documentation for the training program in Digital Signal Processing (DSP), with a strong focus on the practical application of the concepts studied.
